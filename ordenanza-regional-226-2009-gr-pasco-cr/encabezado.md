@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 226-2009-G.R. PASCO / CR
+Cerro de Pasco, 2 de setiembre de 2009.
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL PASCO
+POR CUANTO
+El Consejo Regional del Gobierno Regional Pasco de conformidad con lo previsto en los artículos 197º y 198º de la Constitución Política del Perú de 1993 modificado por la Ley de Reforma Constitucional del Capítulo XIV del Título IV, sobre Descentralización, la Ley Nº 27680, Ley de Bases de la Descentralización, Ley Nº 27783, Ley Orgánica de los Gobiernos Regionales Ley, 27867 y sus modificatorias; en Sesión Ordinaria del Consejo Regional de fecha dos de setiembre de dos mil nueve, ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, conforme a lo previsto por el artículo 45° de la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales, los Gobiernos Regionales ejercen sus funciones generales y específicas en concordancia con las políticas nacionales y sectoriales elaborando y formulando normas de alcance regional; y en el artículo 48° establece las funciones específicas en materia de trabajo, promoción del empleo y la pequeña y micro empresa, y específicamente en el inciso
+h) es función del Gobierno Regional “Conducir y ejecutar acciones en materia de seguridad y salud en el trabajo y bienestar social, concertando con entidades públicas y privadas, así como con organizaciones representativas de la región. Del mismo modo, hacer cumplir las normas de prevención y de protección contra riesgos ocupacionales”;
+Que, es necesario articular y concordar normas legales vigentes del Ministerio de Salud y del Ministerio de Trabajo y Promoción del Empleo en materia de seguridad y salud en el trabajo a efectos de cumplir con la aplicación de la normatividad vigente y establecer políticas regionales orientadas a la prevención y atención a las enfermedades y accidentes en el trabajo; en tal medida el funcionamiento del Comité Regional de Seguridad y Salud en el Trabajo, tiene la función la discusión y concertación de políticas en materia de Trabajo, concordantes con las políticas de desarrollo nacional, promoviendo la participación de todos los sectores involucrados a través de la ejecución de los procesos de planificación, gestión, vigilancia y evaluación del desarrollo en la Región Pasco;
+Que, por lo expuesto en los considerandos anteriores y de conformidad con la Constitución Política del Estado, el Consejo Regional del Gobierno Regional Pasco, en uso de sus facultades y atribuciones conferidas por el artículo 37º inciso a) de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias y en estricto cumplimiento a las normas vigentes: el Consejo Regional del Gobierno Regional de Pasco ha emitido la siguiente:
+ORDENANZA REGIONAL:
