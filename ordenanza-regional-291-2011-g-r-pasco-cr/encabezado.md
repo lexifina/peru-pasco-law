@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 291-2011-G.R. PASCO/CR.
+Cerro de Pasco, 22 de diciembre del 2011
+El Presidente del Gobierno Regional de Pasco.
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Pasco, en Sesión Ordinaria de fecha veintiuno de diciembre del dos mil once.
+CONSIDERANDO:
+Que, los Gobiernos Regionales Emanan de la voluntad popular, y son personas jurídicas de derecho público con autonomía Política, Económica y Administrativa, teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas compartidas y delegadas en el marco de las políticas Nacionales y Sectoriales para contribuir al desarrollo integral y sostenible de la región. Conforme lo expresan los artículos 2°,4° y 5° de la Ley N° 27867-Ley orgánica de los Gobiernos Regionales, sus Normas y disposiciones se rigen por los principios de exclusividad, territorial, legalidad y de Simplicidad Administrativa;
+Que, el artículo 38° de la Ley N° 27867, Ley Orgánica de Gobierno Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, los Gobierno Regionales son competentes para, aprobar su organización interna y su presupuesto; en mérito a lo dispuesto en el inciso a) del artículo 9º de la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales; y el Decreto Supremo Nº 043-2004-PCM, aprueba los “lineamientos para la elaboración y aprobación de los Cuadros para Asignación de Personal de las entidades de la Administración Pública”;
+Que, con el OFICIO Nº 0324-2011-G.R.PASCO-PRES/ GGR, el Gerente General Regional, anexa el INFORME LEGAL Nº 1168-2011-G.R-PASCO/DRAJ de la Dirección Regional de Asesoría Jurídica, INFORME Nº 388-2011-G.R.PASCO-GGR/GRPPAT de la Gerencia de Planeamiento Presupuesto y Acondicionamiento Territorial y el INFORME N° 101-2011-G.R.PASCO-GRPPAT-SGRSTIC/UR-SSS, de la Unidad de Racionalización, con las opiniones favorables en la que se nota que el Cuadro para Asignación de Personal (CAP) del Hospital “Daniel Alcides Carrión” - Pasco, cumple con las especificaciones técnicas y criterios establecidos en la normatividad vigente;
+Que, por lo expuesto en los considerandos anteriores y de conformidad con la Constitución Política del Estado, el Consejo Regional del Gobierno Regional Pasco, en uso de sus facultades y atribuciones conferidas por el artículo 37º inciso a) de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias y en estricto cumplimiento a las normas vigentes ha emitido la siguiente:
+ORDENANZA REGIONAL:
