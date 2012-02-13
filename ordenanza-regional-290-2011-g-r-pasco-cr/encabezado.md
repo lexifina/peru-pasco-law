@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 290-2011-G.R. PASCO/CR
+Cerro de Pasco, 22 de diciembre del 2011
+EL PRESIDENTE DEL GOBIERNO REGIONAL DE PASCO.
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Pasco, en Sesión Ordinaria de fecha veintiuno de diciembre del dos mil once.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular. Son personas jurídicas de derecho público, con autonomía política, económica y administrativa en asuntos de su competencia, constituyendo para su administración económica y financiera, un Pliego Presupuestal; en mérito a lo dispuesto en el artículo 2º de la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales;
+Que, los Gobiernos Regionales son competentes para, aprobar su organización interna y su presupuesto; en mérito a lo dispuesto en el inciso a) del artículo 9º de la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales;
+Que, las entidades de la administración pública, entre ellas, los Gobiernos Regionales, deben proceder a formular su respectivo Reglamento de Organización y Funciones sujetándose a los lineamientos establecidos en el Decreto Supremo Nº 043-2006-PCM, bajo responsabilidad del titular del órgano responsable; por cuanto constituye un documento técnico normativo de gestión institucional que formaliza la estructura orgánica de la entidad, orientado al esfuerzo institucional y el logro de su misión, visión y objetivos. Contiene las funciones generales y compartidas, así como las funciones específicas de los Órganos y Unidades Orgánicas, estableciendo sus atribuciones y responsabilidades en el marco de las normas legales respectivas vigentes, la que debe ser aprobada por Consejo Regional;
+Que, el Reglamento de Organización y Funciones (ROF), propuesto por la Unidad de Gestión Educativa Local de Daniel Alcides Carrión, para su evaluación por las Dependencias competentes de la Sede Regional y aprobación mediante Ordenanza Regional, cumple con los requisitos que exigen las normas, conforme al expediente adjunto, y los informes anexados que se denota que el Reglamento de Organización y Funciones (ROF), cuenta con opiniones favorables y cumplen con las especificaciones técnicas y criterios establecidos en la normatividad vigente;
+Que, por lo expuesto en los considerandos anteriores y de conformidad con la Constitución Política del Estado, el Consejo Regional del Gobierno Regional Pasco, en uso de sus facultades y atribuciones conferidas por el artículo 37º inciso a) de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias y en estricto cumplimiento a las normas vigentes, ha emitido la siguiente:
+ORDENANZA REGIONAL:
