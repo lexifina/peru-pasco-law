@@ -1,0 +1,20 @@
+ORDENANZA REGIONAL
+Nº 368-2015-G.R.PASCO/CR
+Cerro de Pasco, 21 de abril de 2015
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL PASCO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Pasco, en Sesión Extraordinaria de fecha veintiuno de abril, del año dos mil quince.
+CONSIDERANDO:
+Que, los Gobiernos Regionales emanan de la voluntad popular, son personas de derecho público, con autonomía política, económica y administrativa, teniendo por misión organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas en el marco de las políticas nacionales y sectoriales, para la contribución al desarrollo integral y sostenible de la región;
+Que de acuerdo a lo establecido en el artículo 35º literal m) de la Ley de Bases de la Descentralización, corresponde a los Gobiernos Regionales dictar las normas sobre los asuntos y materias de su responsabilidad; y que al artículo 38º de la Ley Orgánica de Gobiernos Regionales, dispone que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, los literales a) y e) del artículo 15º de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales, establece que es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulan o reglamenten los asuntos de su competencia y funciones del Gobierno Regional, así como aprobar su Reglamento Interno;
+Que, el Consejo Regional de Pasco, mediante Ordenanza Regional Nº 294-2012-G.R,PASCO/CR, de fecha 25 de enero de 2012, aprobó el Reglamento Interno del Consejo Regional del Gobierno Regional de Pasco, en la que establece la estructura organizativa, funciones y competencias, así como los derechos y obligaciones de sus miembros, las causales de vacancia y reemplazo de los mismos, y finalmente precisa las disposiciones sobre el desarrollo de las Sesiones del Consejo Regional, de las comisiones y procedimientos para la aprobación de normas de las normas regionales;
+Que, siendo el objetivo que la actual gestión sea dinámica y democrática en sus decisiones y que tenga comunicación directa con el Consejo Regional como máximo Órgano del Gobierno Regional y que esta comunicación sea fluida y permita que las acciones de fiscalización a los servicios que brinda la institución, la ejecución de las obras públicas y la lucha frontal contra la corrupción, procurando las coordinaciones con los actores sociales, los Gobiernos Locales y demás entidades públicas del Gobierno Central;
+Que, mediante el ACUERDO Nº 004-2015-G.R.P/CR se conforma la Comisión Especial para la evaluación y modificatoria del Reglamento Interno de Consejo Regional;
+Que, contando con el DICTAMEN Nº 01-2015-G.R.P/CR-CEEMRIC, de la Comisión Especial para la evaluación y modificatoria del Reglamento Interno de Consejo Regional, quienes luego de revisado el Reglamento Interno de Consejo Regional, dictaminan que se modifique el Reglamento Interno de Consejo Regional mediante Ordenanza Regional Nº 294-2012-G.R,PASCO/ CR, de fecha 25 de enero de 2012;
+Que, el Consejo Regional en pleno, luego del análisis y debate correspondiente, con el voto de la mayoría de los Consejeros Regionales ha considerado necesario aprobar la Modificatoria del Reglamento Interno del Consejo Regional, en la necesidad de contar con un instrumento de gestión adecuado que contenga implícitamente principios, fines y objetivos precisos, que la hagan dinámica, operativa y de gestión moderna;
+Que, estando a lo acordado por el Consejo Regional en su Sesión Extraordinaria y en uso de sus facultades conferidas en el artículo 38º de la Ley Nº 27867 Ley Orgánica de los Gobiernos Regionales y sus modificatorias, el Consejo Regional del Gobierno Regional Pasco ha emitido la siguiente:
+ORDENANZA REGIONAL:
+ORDENANZA REGIONAL QUE APRUEBA LA MODIFICACION DEL REGLAMENTO INTERNO DEL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL DE PASCO
