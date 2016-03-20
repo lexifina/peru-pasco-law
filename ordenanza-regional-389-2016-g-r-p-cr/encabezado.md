@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 389-2016-G.R.P/CR
+Cerro de Pasco, 2 de marzo de 2016
+EL PRESIDENTE DE CONSEJO REGIONAL
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Pasco, en Sesión Ordinaria de fecha uno de marzo del dos mil dieciséis, de conformidad con lo previsto en la Constitución Política del Perú; en la Ley N° 27867, Ley Orgánica de Gobiernos Regionales; y demás Normas Complementarias.
+CONSIDERANDO:
+Que, de conformidad a lo dispuesto por el Art. 191° de la Constitución Política del Perú, concordante con el artículo 2° de la Ley Orgánica de Gobiernos Regionales Ley N° 27687, establecen que los Gobiernos Regionales tienen autonomía política, económica y administrativa, en asuntos de su competencia;
+Que, la Ley Nº 29768, Ley de Mancomunidad Regional, en su artículo 2º, señala que la Mancomunidad Regional es el acuerdo voluntario de dos o más gobiernos regionales que se unen para la prestación conjunta de servicios públicos, cofinanciamiento o inversión en la ejecución de obras, que promueven la integración, el desarrollo regional y la participación de la sociedad, coadyuvando al proceso de regionalización; y, en su artículo 3º, establece que la Mancomunidad Regional es una persona jurídica de derecho público y constituye pliego presupuestal;
+Que, el artículo 10° del Reglamento de la Ley de Mancomunidad Regional, aprobado mediante Decreto Supremo N° 050-2013-PCM, establece el procedimiento para la constitución de las mancomunidades regionales; en el numeral 10.5 del Artículo 10°, se señala que mediante ordenanza regional aprueba la Constitución de la Mancomunidad Regional, ratificando el contenido del Acta de Constitución, su Estatuto y la designación del primer Presidente del Comité Ejecutivo y del primer Gerente General; asimismo, se establece que el Acta de Constitución y el Estatuto de la Mancomunidad Regional forman parte de la ordenanza regional que los ratifica;
+Que, mediante Informe Técnico N° 001-2015-MRPCA, de fecha 13 de noviembre de 2015, elaborado por la Sub Gerencia de Cooperación Técnica y Planeamiento del Gobierno Regional de Junín (miembro del Equipo Técnico de la Mancomunidad), se declara la viabilidad para la constitución de la “Mancomunidad Regional Pacífico Centro Amazónica”;
+Que, en la sesión de fecha 13 de diciembre de 2015, los Gobernadores Regionales de: Huánuco, Huancavelica, Junín, Lima, Pasco y Ucayali, acordó la constitución de la “Mancomunidad Regional Pacífico Centro Amazónica”; asimismo, acordaron la aprobación de su Estatuto, elección del primer presidente del Comité Ejecutivo y la designación del primer Gerente General;
+Que, el Dictamen N° 002-2016-GRP-CR/CPPAT, favorable de la Comisión Ordinaria de Planeamiento, Presupuesto y Acondicionamiento Territorial, y, de conformidad con las atribuciones conferidas por los artículos 9º, 10º, 11º, 15º y 38º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales sus modificatorias y su Reglamento Interno de Consejo, aprobado por Ordenanza Regional Nº. 368-2015-GRP/CR, el Consejo Regional ha aprobado la siguiente
+ORDENANZA QUE APRUEBA LA
+CONSTITUCIÓN DE LA “MANCOMUNIDAD REGIONAL PACÍFICO CENTRO AMAZÓNICA”
