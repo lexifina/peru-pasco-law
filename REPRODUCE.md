@@ -186,20 +186,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-264-2010-g-r-pasco-cr` | Ordenanza Regional N° 264-2010-G.R. PASCO/CR: Aprueban el Plan Vial Departamental Participativo de Pasco 2010 -2019 | 1 | 2011-05-30 to 2011-05-30 |
 | `ordenanza-regional-253-2010-g-r-pasco-cr` | Ordenanza Regional N° 253-2010-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal del Hospital Regional Doctor "Daniel Alcides Carrión García" | 1 | 2011-05-23 to 2011-05-23 |
 | `ordenanza-regional-271-2011-g-r-pasco-cr` | Ordenanza Regional N° 271-2011-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Agricultura | 1 | 2011-04-22 to 2011-04-22 |
+| `ordenanza-regional-268-2011-g-r-pasco-cr` | Ordenanza Regional N° 268-2011-G.R.PASCO/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Pasco | 1 | 2011-02-23 to 2011-02-23 |
+| `ordenanza-regional-255-2010-g-r-pasco-cr` | Ordenanza Regional N° 255-2010-G.R. PASCO/CR: Aprueban Proyecto Educativo Regional 2010 - 2021 de la Región Pasco | 1 | 2010-12-23 to 2010-12-23 |
+| `ordenanza-regional-233-2009-g-r-pasco-cr` | Ordenanza Regional N° 233-2009-G.R.PASCO/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria Pasco | 1 | 2010-01-18 to 2010-01-18 |
+| `ordenanza-regional-229-2009-g-r-pasco-cr` | Ordenanza Regional N° 229-2009-G.R. PASCO/CR: Aprueban transferencia de funciones de Micro y Pequeña Empresa de la Gerencia Regioinal de Desarrollo Social a la Gerencia de Desarrollo Económico | 1 | 2010-01-02 to 2010-01-02 |
+| `ordenanza-regional-227-2009-g-r-pasco-cr` | Ordenanza Regional N° 227-2009-G.R.PASCO/CR: Aprueban proceso de formulación y elaboración del Proyecto Educativo Regional 2010 - 2021 - Pasco | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-226-2009-gr-pasco-cr` | Ordenanza Regional N° 226-2009-GR.PASCO/CR: Crean el Comité Regional de Seguridad y Salud en el Trabajo de la Región Pasco | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-225-2009-g-r-pasco-cr` | Ordenanza Regional N° 225-2009-G.R.PASCO/CR: Constituyen el Consejo Regional de las Personas con Discapacidad | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-220-2009-g-r-pasco-cr` | Ordenanza Regional N° 220-2009-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal del Gobierno Regional Pasco | 1 | 2009-07-27 to 2009-07-27 |
+| `ordenanza-regional-210-2009-g-r-pasco-cr` | Ordenanza Regional N° 210-2009-G.R.PASCO/CR: Aprueban Plan Regional de Operaciones de Emergencia (PROE) | 1 | 2009-05-16 to 2009-05-16 |
 
-The build made 172 commits:
+The build made 181 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 172 | first version of an act |
+| 181 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 172 laws in the record.
-- 344 tags.
+- 181 laws in the record.
+- 362 tags.
 
 ## Dates
 
@@ -211,7 +220,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `038513dd7fb7b69a1fa5de00b3aacd6ea0c4ae2d066047585d4c18189e444b9f` (2086985 bytes).
+- Corpus: sha256 `1bf41d7571a0332597aa8216d8041cc3471cc65be9fb5a3f63d3ea262ada42e2` (2163677 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

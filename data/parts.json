@@ -201,6 +201,20 @@
     "ordenanza-regional-473-2021-g-r-p-cr"
    ],
    "sha256": "e0bf707cd4989a15f08fadeaafb018e02aeb207b8b8a0cbce995a137190b4fab"
+  },
+  "33-runner-02.json": {
+   "acts": [
+    "ordenanza-regional-210-2009-g-r-pasco-cr",
+    "ordenanza-regional-220-2009-g-r-pasco-cr",
+    "ordenanza-regional-225-2009-g-r-pasco-cr",
+    "ordenanza-regional-226-2009-gr-pasco-cr",
+    "ordenanza-regional-227-2009-g-r-pasco-cr",
+    "ordenanza-regional-229-2009-g-r-pasco-cr",
+    "ordenanza-regional-233-2009-g-r-pasco-cr",
+    "ordenanza-regional-255-2010-g-r-pasco-cr",
+    "ordenanza-regional-268-2011-g-r-pasco-cr"
+   ],
+   "sha256": "ecc25da62cfec3d6fe29bbca0b01dda7a8898d525181f354baa2b0b3f3d0d878"
   }
  },
  "schema": 1

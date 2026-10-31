@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-172 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+181 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -184,6 +184,15 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-264-2010-g-r-pasco-cr/` | Ordenanza Regional N° 264-2010-G.R. PASCO/CR: Aprueban el Plan Vial Departamental Participativo de Pasco 2010 -2019 | in force 30 May 2011 |
 | `ordenanza-regional-253-2010-g-r-pasco-cr/` | Ordenanza Regional N° 253-2010-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal del Hospital Regional Doctor "Daniel Alcides Carrión García" | in force 23 May 2011 |
 | `ordenanza-regional-271-2011-g-r-pasco-cr/` | Ordenanza Regional N° 271-2011-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Agricultura | in force 22 April 2011 |
+| `ordenanza-regional-268-2011-g-r-pasco-cr/` | Ordenanza Regional N° 268-2011-G.R.PASCO/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Pasco | in force 23 February 2011 |
+| `ordenanza-regional-255-2010-g-r-pasco-cr/` | Ordenanza Regional N° 255-2010-G.R. PASCO/CR: Aprueban Proyecto Educativo Regional 2010 - 2021 de la Región Pasco | in force 23 December 2010 |
+| `ordenanza-regional-233-2009-g-r-pasco-cr/` | Ordenanza Regional N° 233-2009-G.R.PASCO/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional Agraria Pasco | in force 18 January 2010 |
+| `ordenanza-regional-229-2009-g-r-pasco-cr/` | Ordenanza Regional N° 229-2009-G.R. PASCO/CR: Aprueban transferencia de funciones de Micro y Pequeña Empresa de la Gerencia Regioinal de Desarrollo Social a la … | in force 2 January 2010 |
+| `ordenanza-regional-227-2009-g-r-pasco-cr/` | Ordenanza Regional N° 227-2009-G.R.PASCO/CR: Aprueban proceso de formulación y elaboración del Proyecto Educativo Regional 2010 - 2021 - Pasco | in force 1 January 2010 |
+| `ordenanza-regional-226-2009-gr-pasco-cr/` | Ordenanza Regional N° 226-2009-GR.PASCO/CR: Crean el Comité Regional de Seguridad y Salud en el Trabajo de la Región Pasco | in force 1 January 2010 |
+| `ordenanza-regional-225-2009-g-r-pasco-cr/` | Ordenanza Regional N° 225-2009-G.R.PASCO/CR: Constituyen el Consejo Regional de las Personas con Discapacidad | in force 1 January 2010 |
+| `ordenanza-regional-220-2009-g-r-pasco-cr/` | Ordenanza Regional N° 220-2009-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal del Gobierno Regional Pasco | in force 27 July 2009 |
+| `ordenanza-regional-210-2009-g-r-pasco-cr/` | Ordenanza Regional N° 210-2009-G.R.PASCO/CR: Aprueban Plan Regional de Operaciones de Emergencia (PROE) | in force 16 May 2009 |
 
 ## Source
 
