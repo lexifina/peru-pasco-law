@@ -151,20 +151,55 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-223-2009-g-r-pasco-cr` | Ordenanza Regional N° 223-2009-G.R. PASCO/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Archivo Pasco | 1 | 2009-11-06 to 2009-11-06 |
 | `ordenanza-regional-248-2010-g-r-pasco-cr` | Ordenanza Regional N° 248-2010-G.R. PASCO/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional del Hospital " Dr. Daniel Alcides Carrión" | 1 | 2010-11-20 to 2010-11-20 |
 | `ordenanza-regional-327-2013-g-r-pasco-cr` | Ordenanza Regional N° 327-2013-G.R.PASCO/CR: Aprueban el Reglamento de Organización y Funciones (ROF) y el Cuadro para Asignación de Personal (CAP) de la Dirección de la Unidad de Gestión Educativa Local de Pasco | 1 | 2013-08-31 to 2013-08-31 |
+| `ordenanza-regional-473-2021-g-r-p-cr` | Ordenanza Regional N° 473-2021-G.R.P/CR: Crean el Consejo Regional para las Personas Adultas Mayores-COREPAM del Gobierno Regional de Pasco | 1 | 2021-04-09 to 2021-04-09 |
+| `ordenanza-regional-468-2021-g-r-p-cr` | Ordenanza Regional N° 468-2021-G.R.P/CR: Aprueban los Cuadros para Asignación de Personal CAP-Provisional de la Dirección Regional de Salud Pasco, Hospital Daniel Alcides Carrión y Red de Salud de Oxapampa | 1 | 2021-02-15 to 2021-02-15 |
+| `ordenanza-regional-463-2020-g-r-p-cr` | Ordenanza Regional N° 463-2020-G.R.P/CR: Autorizan transferencia de inmueble de propiedad del Gobierno Regional de Pasco a favor del MINEDU - UGEL PASCO, en beneficio de la Institución Educativa N° 31774 "San Andrés de Paragsha" | 1 | 2020-11-05 to 2020-11-05 |
+| `ordenanza-regional-431-2018-g-r-p-cr` | Ordenanza Regional N° 431-2018-G.R.P/CR: Modifican la Ordenanza N° 420-2017-G.R.P/CR que declaró de necesidad pública e interés regional el proceso de Zonificación Forestal y Ordenamiento Forestal de la Amazonía de la Región Pasco | 1 | 2019-11-22 to 2019-11-22 |
+| `ordenanza-regional-391-2016-g-r-p-cr` | Ordenanza Regional N° 391-2016-G.R.P/CR: Aprueban Reglamento de Audiencia Pública de Rendición de Cuentas 2015 | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-392-2016-g-r-p-cr` | Ordenanza Regional N° 392-2016-G.R.P/CR: Aprueban la actualización del Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional Pasco y Direcciones Regionales Sectoriales | 1 | 2016-05-28 to 2016-05-28 |
+| `ordenanza-regional-389-2016-g-r-p-cr` | Ordenanza Regional N° 389-2016-G.R.P/CR: Aprueban Constitución de la "Mancomunidad Regional Pacífico Centro Amazónica" y su Estatuto | 1 | 2016-03-20 to 2016-03-20 |
+| `ordenanza-regional-368-2015-g-r-pasco-cr` | Ordenanza Regional N° 368-2015-G.R.PASCO/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Pasco | 1 | 2015-06-29 to 2015-06-29 |
+| `ordenanza-regional-365-2015-g-r-pasco-cr` | Ordenanza Regional N° 365-2015-G.R.PASCO/CR: Aprueban el Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Educación Pasco | 1 | 2015-06-07 to 2015-06-07 |
+| `ordenanza-regional-337-2013-g-r-pasco-cr` | Ordenanza Regional N° 337-2013-G.R.PASCO/CR: Aprueban el Plan Regional de Acción por la Infancia, Niñez y Adolescencia Pasco 2013 - 2017 | 1 | 2013-12-06 to 2013-12-06 |
+| `ordenanza-regional-336-2013-g-r-pasco-cr` | Ordenanza Regional N° 336-2013-G.R.PASCO/CR: Crean Comisión Regional Anticorrupción de Pasco | 1 | 2013-11-09 to 2013-11-09 |
+| `ordenanza-regional-331-2013-g-r-pasco-cr` | Ordenanza Regional N° 331-2013-G.R.PASCO/CR: Aprueban modificación del Texto Único de Procedimientos Administrativos del Gobierno Regional Pasco | 1 | 2013-08-17 to 2013-08-17 |
+| `ordenanza-regional-332-2013-g-r-pasco-cr` | Ordenanza Regional N° 332-2013-G.R.PASCO/CR: Aprueban Reglamento de Fraccionamiento de Deudas No Tributarias Derivadas de Procedimientos Sancionadores instaurados por el Gobierno Regional Pasco | 1 | 2013-07-14 to 2013-07-14 |
+| `ordenanza-regional-330-2013-g-r-pasco-cr` | Ordenanza Regional N° 330-2013-G.R.PASCO/CR: Aprueban "Plan Regional contra la Violencia hacia las Mujeres Región Pasco 2012 - 2021" | 1 | 2013-05-26 to 2013-05-26 |
+| `ordenanza-regional-320-2013-g-r-pasco-cr` | Ordenanza Regional N° 320-2013-G.R.PASCO/CR: Crean e implementan el Consejo Regional de Desplazados y Cultura de Paz e institucionalizan el Día Internacional de la Paz en la Región | 1 | 2013-03-29 to 2013-03-29 |
+| `ordenanza-regional-325-2013-g-r-pasco-cr` | Ordenanza Regional N° 325-2013-G.R.PASCO/CR: Aprueban el Plan Regional de Igualdad de Género de Pasco 2012 - 2017 | 1 | 2013-03-29 to 2013-03-29 |
+| `ordenanza-regional-324-2013-g-r-pasco-cr` | Ordenanza Regional N° 324-2013-G.R.PASCO/CR: Aprueban el Programa Regional de Población 2012 - 2017 | 1 | 2013-03-29 to 2013-03-29 |
+| `ordenanza-regional-326-2013-g-r-pasco-cr` | Ordenanza Regional N° 326-2013-G.R.PASCO/CR: Declaran el año 2013 "Año de la Unidad para la Consolidación de los Megaproyectos en la Región Pasco" | 1 | 2013-03-16 to 2013-03-16 |
+| `ordenanza-regional-299-2012-g-r-pasco-cr` | Ordenanza Regional N° 299-2012-G.R.PASCO/CR: Institucionalizan la Condecoración de la Mujer Pasqueña, denominada Medalla Sol Regional | 1 | 2013-03-11 to 2013-03-11 |
+| `ordenanza-regional-309-2012-g-r-pasco-cr` | Ordenanza Regional N° 309-2012-G.R.PASCO/CR: Aprueban el Plan Regional de Acuicultura de Pasco 2012 - 2021 | 1 | 2013-02-23 to 2013-02-23 |
+| `ordenanza-regional-315-2012-g-r-pasco-cr` | Ordenanza Regional N° 315-2012-G.R.PASCO/CR: Declaran el 9 de diciembre como el "Día contra la Corrupción" en el ámbito de la Región Pasco | 1 | 2012-11-10 to 2012-11-10 |
+| `ordenanza-regional-311-2012-g-r-pasco-cr` | Ordenanza Regional N° 311-2012-G.R.PASCO/CR: Modifican Estructura Orgánica, Reglamento de Organización y Funciones y Cuadro para Asignación de Personal de la Sede del Gobierno Regional Pasco | 1 | 2012-08-16 to 2012-08-16 |
+| `ordenanza-regional-304-2012-g-r-pasco-cr` | Ordenanza Regional N° 304-2012-G.R. PASCO/CR: Aprueban  creación y reconocimiento de los Comités de Vigilancia de Obras en la Región Pasco | 1 | 2012-06-16 to 2012-06-16 |
+| `ordenanza-regional-303-2012-g-r-pasco-cr` | Ordenanza Regional N° 303-2012-G.R.PASCO/CR: Aprueban la creación de la Oficina de Atención a las Personas con Discapacidad (OREDIS) en la Región Pasco | 1 | 2012-06-11 to 2012-06-11 |
+| `ordenanza-regional-302-2012-g-r-pasco-cr` | Ordenanza Regional N° 302-2012-G.R.PASCO/CR: Instituyen el 7 de mayo como el Día de la Heroica "Columna Pasco" | 1 | 2012-04-22 to 2012-04-22 |
+| `ordenanza-regional-294-2012-g-r-pasco-cr` | Ordenanza Regional N° 294-2012-G.R.PASCO/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Pasco | 1 | 2012-03-12 to 2012-03-12 |
+| `ordenanza-regional-290-2011-g-r-pasco-cr` | Ordenanza Regional N° 290-2011-G.R.PASCO/CR: Aprueban Reglamento de Organización y Funciones de la Unidad de Gestión Educativa Local de Daniel Alcides Carrión | 1 | 2012-02-13 to 2012-02-13 |
+| `ordenanza-regional-291-2011-g-r-pasco-cr` | Ordenanza Regional N° 291-2011-G.R.PASCO/CR.: Aprueban Cuadro para Asignación de Personal (CAP) del Hospital "Daniel Alcides Carrión" - Pasco | 1 | 2012-01-30 to 2012-01-30 |
+| `ordenanza-regional-280-2011-g-r-pasco-cr` | Ordenanza Regional N° 280-2011-G.R.PASCO/CR.: Declaran de Interés, Utilidad Pública y de Necesidad Regional la Inversión Privada | 1 | 2011-12-01 to 2011-12-01 |
+| `ordenanza-regional-259-2010-g-r-pasco-cr` | Ordenanza Regional N° 259-2010-G.R.PASCO/CR: Reestructuran la Comisión Ambiental Regional Pasco (CAR-PASCO) | 1 | 2011-12-01 to 2011-12-01 |
+| `ordenanza-regional-260-2010-g-r-pasco-cr` | Ordenanza Regional N° 260-2010-G.R.PASCO/CR: Conforman la Red de Comunicadores Ambientales en la Región Pasco | 1 | 2011-12-01 to 2011-12-01 |
+| `ordenanza-regional-258-2010-g-r-pasco-cr` | Ordenanza Regional N° 258-2010-G.R.PASCO/CR: Crean el Grupo Técnico de Diversidad Biológica y Cambio Climático de la Región Pasco | 1 | 2011-12-01 to 2011-12-01 |
+| `ordenanza-regional-264-2010-g-r-pasco-cr` | Ordenanza Regional N° 264-2010-G.R. PASCO/CR: Aprueban el Plan Vial Departamental Participativo de Pasco 2010 -2019 | 1 | 2011-05-30 to 2011-05-30 |
+| `ordenanza-regional-253-2010-g-r-pasco-cr` | Ordenanza Regional N° 253-2010-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal del Hospital Regional Doctor "Daniel Alcides Carrión García" | 1 | 2011-05-23 to 2011-05-23 |
+| `ordenanza-regional-271-2011-g-r-pasco-cr` | Ordenanza Regional N° 271-2011-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Agricultura | 1 | 2011-04-22 to 2011-04-22 |
 
-The build made 137 commits:
+The build made 172 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 137 | first version of an act |
+| 172 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 137 laws in the record.
-- 274 tags.
+- 172 laws in the record.
+- 344 tags.
 
 ## Dates
 
@@ -176,13 +211,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `35c85c63e88d4cffa50b1f19434f8094d2b0cc3b2db63b1b3123c07bcf78f821` (1710547 bytes).
+- Corpus: sha256 `038513dd7fb7b69a1fa5de00b3aacd6ea0c4ae2d066047585d4c18189e444b9f` (2086985 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-137 versions of 137 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

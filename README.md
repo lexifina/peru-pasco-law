@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-137 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+172 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -149,6 +149,41 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-223-2009-g-r-pasco-cr/` | Ordenanza Regional N° 223-2009-G.R. PASCO/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Archivo Pasco | in force 6 November 2009 |
 | `ordenanza-regional-248-2010-g-r-pasco-cr/` | Ordenanza Regional N° 248-2010-G.R. PASCO/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional del Hospital " Dr. Daniel Alcides Carrión… | in force 20 November 2010 |
 | `ordenanza-regional-327-2013-g-r-pasco-cr/` | Ordenanza Regional N° 327-2013-G.R.PASCO/CR: Aprueban el Reglamento de Organización y Funciones (ROF) y el Cuadro para Asignación de Personal (CAP) de la Direcc… | in force 31 August 2013 |
+| `ordenanza-regional-473-2021-g-r-p-cr/` | Ordenanza Regional N° 473-2021-G.R.P/CR: Crean el Consejo Regional para las Personas Adultas Mayores-COREPAM del Gobierno Regional de Pasco | in force 9 April 2021 |
+| `ordenanza-regional-468-2021-g-r-p-cr/` | Ordenanza Regional N° 468-2021-G.R.P/CR: Aprueban los Cuadros para Asignación de Personal CAP-Provisional de la Dirección Regional de Salud Pasco, Hospital Dani… | in force 15 February 2021 |
+| `ordenanza-regional-463-2020-g-r-p-cr/` | Ordenanza Regional N° 463-2020-G.R.P/CR: Autorizan transferencia de inmueble de propiedad del Gobierno Regional de Pasco a favor del MINEDU - UGEL PASCO, en ben… | in force 5 November 2020 |
+| `ordenanza-regional-431-2018-g-r-p-cr/` | Ordenanza Regional N° 431-2018-G.R.P/CR: Modifican la Ordenanza N° 420-2017-G.R.P/CR que declaró de necesidad pública e interés regional el proceso de Zonificac… | in force 22 November 2019 |
+| `ordenanza-regional-391-2016-g-r-p-cr/` | Ordenanza Regional N° 391-2016-G.R.P/CR: Aprueban Reglamento de Audiencia Pública de Rendición de Cuentas 2015 | in force 4 February 2017 |
+| `ordenanza-regional-392-2016-g-r-p-cr/` | Ordenanza Regional N° 392-2016-G.R.P/CR: Aprueban la actualización del Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional Pasco y Direcc… | in force 28 May 2016 |
+| `ordenanza-regional-389-2016-g-r-p-cr/` | Ordenanza Regional N° 389-2016-G.R.P/CR: Aprueban Constitución de la "Mancomunidad Regional Pacífico Centro Amazónica" y su Estatuto | in force 20 March 2016 |
+| `ordenanza-regional-368-2015-g-r-pasco-cr/` | Ordenanza Regional N° 368-2015-G.R.PASCO/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Pasco | in force 29 June 2015 |
+| `ordenanza-regional-365-2015-g-r-pasco-cr/` | Ordenanza Regional N° 365-2015-G.R.PASCO/CR: Aprueban el Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Educación Pasco | in force 7 June 2015 |
+| `ordenanza-regional-337-2013-g-r-pasco-cr/` | Ordenanza Regional N° 337-2013-G.R.PASCO/CR: Aprueban el Plan Regional de Acción por la Infancia, Niñez y Adolescencia Pasco 2013 - 2017 | in force 6 December 2013 |
+| `ordenanza-regional-336-2013-g-r-pasco-cr/` | Ordenanza Regional N° 336-2013-G.R.PASCO/CR: Crean Comisión Regional Anticorrupción de Pasco | in force 9 November 2013 |
+| `ordenanza-regional-331-2013-g-r-pasco-cr/` | Ordenanza Regional N° 331-2013-G.R.PASCO/CR: Aprueban modificación del Texto Único de Procedimientos Administrativos del Gobierno Regional Pasco | in force 17 August 2013 |
+| `ordenanza-regional-332-2013-g-r-pasco-cr/` | Ordenanza Regional N° 332-2013-G.R.PASCO/CR: Aprueban Reglamento de Fraccionamiento de Deudas No Tributarias Derivadas de Procedimientos Sancionadores instaurad… | in force 14 July 2013 |
+| `ordenanza-regional-330-2013-g-r-pasco-cr/` | Ordenanza Regional N° 330-2013-G.R.PASCO/CR: Aprueban "Plan Regional contra la Violencia hacia las Mujeres Región Pasco 2012 - 2021" | in force 26 May 2013 |
+| `ordenanza-regional-320-2013-g-r-pasco-cr/` | Ordenanza Regional N° 320-2013-G.R.PASCO/CR: Crean e implementan el Consejo Regional de Desplazados y Cultura de Paz e institucionalizan el Día Internacional de… | in force 29 March 2013 |
+| `ordenanza-regional-325-2013-g-r-pasco-cr/` | Ordenanza Regional N° 325-2013-G.R.PASCO/CR: Aprueban el Plan Regional de Igualdad de Género de Pasco 2012 - 2017 | in force 29 March 2013 |
+| `ordenanza-regional-324-2013-g-r-pasco-cr/` | Ordenanza Regional N° 324-2013-G.R.PASCO/CR: Aprueban el Programa Regional de Población 2012 - 2017 | in force 29 March 2013 |
+| `ordenanza-regional-326-2013-g-r-pasco-cr/` | Ordenanza Regional N° 326-2013-G.R.PASCO/CR: Declaran el año 2013 "Año de la Unidad para la Consolidación de los Megaproyectos en la Región Pasco" | in force 16 March 2013 |
+| `ordenanza-regional-299-2012-g-r-pasco-cr/` | Ordenanza Regional N° 299-2012-G.R.PASCO/CR: Institucionalizan la Condecoración de la Mujer Pasqueña, denominada Medalla Sol Regional | in force 11 March 2013 |
+| `ordenanza-regional-309-2012-g-r-pasco-cr/` | Ordenanza Regional N° 309-2012-G.R.PASCO/CR: Aprueban el Plan Regional de Acuicultura de Pasco 2012 - 2021 | in force 23 February 2013 |
+| `ordenanza-regional-315-2012-g-r-pasco-cr/` | Ordenanza Regional N° 315-2012-G.R.PASCO/CR: Declaran el 9 de diciembre como el "Día contra la Corrupción" en el ámbito de la Región Pasco | in force 10 November 2012 |
+| `ordenanza-regional-311-2012-g-r-pasco-cr/` | Ordenanza Regional N° 311-2012-G.R.PASCO/CR: Modifican Estructura Orgánica, Reglamento de Organización y Funciones y Cuadro para Asignación de Personal de la Se… | in force 16 August 2012 |
+| `ordenanza-regional-304-2012-g-r-pasco-cr/` | Ordenanza Regional N° 304-2012-G.R. PASCO/CR: Aprueban  creación y reconocimiento de los Comités de Vigilancia de Obras en la Región Pasco | in force 16 June 2012 |
+| `ordenanza-regional-303-2012-g-r-pasco-cr/` | Ordenanza Regional N° 303-2012-G.R.PASCO/CR: Aprueban la creación de la Oficina de Atención a las Personas con Discapacidad (OREDIS) en la Región Pasco | in force 11 June 2012 |
+| `ordenanza-regional-302-2012-g-r-pasco-cr/` | Ordenanza Regional N° 302-2012-G.R.PASCO/CR: Instituyen el 7 de mayo como el Día de la Heroica "Columna Pasco" | in force 22 April 2012 |
+| `ordenanza-regional-294-2012-g-r-pasco-cr/` | Ordenanza Regional N° 294-2012-G.R.PASCO/CR: Aprueban modificación del Reglamento Interno del Consejo Regional del Gobierno Regional de Pasco | in force 12 March 2012 |
+| `ordenanza-regional-290-2011-g-r-pasco-cr/` | Ordenanza Regional N° 290-2011-G.R.PASCO/CR: Aprueban Reglamento de Organización y Funciones de la Unidad de Gestión Educativa Local de Daniel Alcides Carrión | in force 13 February 2012 |
+| `ordenanza-regional-291-2011-g-r-pasco-cr/` | Ordenanza Regional N° 291-2011-G.R.PASCO/CR.: Aprueban Cuadro para Asignación de Personal (CAP) del Hospital "Daniel Alcides Carrión" - Pasco | in force 30 January 2012 |
+| `ordenanza-regional-280-2011-g-r-pasco-cr/` | Ordenanza Regional N° 280-2011-G.R.PASCO/CR.: Declaran de Interés, Utilidad Pública y de Necesidad Regional la Inversión Privada | in force 1 December 2011 |
+| `ordenanza-regional-259-2010-g-r-pasco-cr/` | Ordenanza Regional N° 259-2010-G.R.PASCO/CR: Reestructuran la Comisión Ambiental Regional Pasco (CAR-PASCO) | in force 1 December 2011 |
+| `ordenanza-regional-260-2010-g-r-pasco-cr/` | Ordenanza Regional N° 260-2010-G.R.PASCO/CR: Conforman la Red de Comunicadores Ambientales en la Región Pasco | in force 1 December 2011 |
+| `ordenanza-regional-258-2010-g-r-pasco-cr/` | Ordenanza Regional N° 258-2010-G.R.PASCO/CR: Crean el Grupo Técnico de Diversidad Biológica y Cambio Climático de la Región Pasco | in force 1 December 2011 |
+| `ordenanza-regional-264-2010-g-r-pasco-cr/` | Ordenanza Regional N° 264-2010-G.R. PASCO/CR: Aprueban el Plan Vial Departamental Participativo de Pasco 2010 -2019 | in force 30 May 2011 |
+| `ordenanza-regional-253-2010-g-r-pasco-cr/` | Ordenanza Regional N° 253-2010-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal del Hospital Regional Doctor "Daniel Alcides Carrión García" | in force 23 May 2011 |
+| `ordenanza-regional-271-2011-g-r-pasco-cr/` | Ordenanza Regional N° 271-2011-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Agricultura | in force 22 April 2011 |
 
 ## Source
 
