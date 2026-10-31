@@ -1,0 +1,11 @@
+{
+  "path": "pe-pas",
+  "code": "PE-PAS",
+  "name": "Pasco",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-pasco-law",
+  "build": "built: 137 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}

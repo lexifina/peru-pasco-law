@@ -1,0 +1,206 @@
+# How this repository was made (Pasco)
+
+This file is written by the build on 2026-10-31, the day the source data was retrieved.
+
+## Sources
+
+| Source | Address | Retrieved | Licence |
+| --- | --- | --- | --- |
+| Diario Oficial El Peruano, Normas Legales (Empresa Peruana de Servicios Editoriales S.A. - Editora Perú) | <https://busquedas.elperuano.pe> | 2026-10-31 | Official texts of a legislative nature: not protected by copyright in Peru (Decreto Legislativo 822, Ley sobre el Derecho de Autor, art. 9 b: "Artículo 9.- No son objeto de protección por el derecho de autor: [...] b. Los textos oficiales de carácter legislativo, administrativo o judicial, ni las traducciones oficiales de los mismos, sin perjuicio de la obligación de respetar los textos y citar la fuente."). The source states no restriction on reuse. Reproduced with attribution, respecting the text. |
+
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+
+## What is in it
+
+| Act | Title | Versions | Span |
+| --- | --- | ---: | --- |
+| `ordenanza-regional-547-2026-g-r-p-cr` | Ordenanza Regional N° 547-2026-G.R.P/CR: Aprueban la conformación de la Mesa Regional de Control y Vigilancia Forestal y de Fauna Silvestre de la Región Pasco | 1 | 2026-10-03 to 2026-10-03 |
+| `ordenanza-regional-546-2026-g-r-p-cr` | Ordenanza Regional N° 546-2026-G.R. P/CR: Aprueban ampliación del plazo de vigencia del Plan Estratégico Regional de Turismo (PERTUR) Pasco 2019-2025, aprobado por la Ordenanza Regional N° 434-2018-G.R. P/CR por el período 2026 – 2027 | 1 | 2026-06-12 to 2026-06-12 |
+| `ordenanza-regional-545-2026-g-r-p-cr` | Ordenanza Regional N° 545-2026-G.R.P/CR: Aprueban Reglamento de Inspección y/o Supervisión y/o Fiscalización de Seguridad y Salud Ocupacional en las Actividades Mineras desarrolladas por los Pequeños Productores Mineros (PPM) y los Productores Mineros Artesanales (PMA) de la Región Pasco | 1 | 2026-06-12 to 2026-06-12 |
+| `ordenanza-regional-544-2026-g-r-p-cr` | Ordenanza Regional N° 544-2026-G.R. P/CR: Declaran el dia 2 de mayo de cada año “Día de la Memoria de la Masacre de Huayllacancha en Rancas”, ocurrido en la Comunidad Campesina San Antonio de Rancas en el distrito de Simón Bolívar, provincia de Pasco" | 1 | 2026-05-08 to 2026-05-08 |
+| `ordenanza-regional-543-2026-g-r-p-cr` | Ordenanza Regional N° 543-2026-G.R. P/CR: Aprueban la promoción de la inserción laboral de los beneficiarios del Plan Integral de Reparaciones de la Región Pasco | 1 | 2026-05-08 to 2026-05-08 |
+| `ordenanza-regional-542-2026-g-r-p-cr` | Ordenanza Regional N° 542-2026-G.R. P/CR: Aprueban la denominación del año regional 2026, “Año de la Inversión en Conectividad Turística e Integración Regional y del Centenario de la Comunidad San Antonio de Rancas” | 1 | 2026-05-07 to 2026-05-07 |
+| `ordenanza-regional-540-2025-g-r-p-cr` | Ordenanza Regional N° 540-2025-G.R. P/CR: Ordenanza que modifica los artículos Primero y Segundo de la Ordenanza Regional N° 524-2025-G.R. P/CR | 1 | 2026-02-03 to 2026-02-03 |
+| `ordenanza-regional-ordenanza-regional` | Ordenanza Regional N° : Aprueban el Plan Regional Multisectorial para la prevención y reducción de la anemia materno infantil en la región Pasco 2025-2030 | 1 | 2026-01-09 to 2026-01-09 |
+| `ordenanza-regional-535-2025-g-r-p-cr` | Ordenanza Regional N° 535-2025-G.R.P/CR: Aprueban el Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Pasco | 1 | 2025-11-08 to 2025-11-08 |
+| `ordenanza-regional-533-2025-g-r-p-cr` | Ordenanza Regional N° 533-2025-G.R. P/CR: Modifican la Ordenanza Regional N° 467-2020-GRP/CR que crea la Red Regional de Mujeres Emprendedoras y Empresarias de la Región Pasco | 1 | 2025-10-13 to 2025-10-13 |
+| `ordenanza-regional-531-2025-g-r-p-cr` | Ordenanza Regional N° 531-2025-G.R. P/CR: Declaran de necesidad regional la implementación de “Plan lector regional lecturas pasqueñas” y la diversidad textual como una intervención estratégica para mejorar la calidad educativa y revalorizar el patrimonio literario cultural de Pasco | 1 | 2025-09-20 to 2025-09-20 |
+| `ordenanza-regional-530-2025-g-r-p-cr` | Ordenanza Regional N° 530-2025-G.R. P/CR: Declaran de prioridad regional la vacunación y la jornada intensiva de vacunación, con el objeto de alcanzar las coberturas óptimas de vacunación y así reducir la carga de mortalidad y morbilidad causada por enfermedades prevenibles por vacuna, en concordanc | 1 | 2025-09-20 to 2025-09-20 |
+| `ordenanza-regional-528-2025-g-r-p-cr` | Ordenanza Regional N° 528-2025-G.R. P/CR: Aprueban proceso de implementación del Sistema Regional de Gestión Ambiental de Pasco, conforme al Reglamento de la Ley N° 28245, Ley Marco del Sistema Nacional de Gestión Ambiental, aprobado mediante Decreto Supremo N° 014-2024-MINAM | 1 | 2025-08-30 to 2025-08-30 |
+| `ordenanza-regional-526-2025-g-r-p-cr` | Ordenanza Regional N° 526-2025-G.R. P/CR: Aprueban Plan de Desarrollo Regional Concertado del Gobierno Regional de Pasco 2025-2034 (PDRC) | 1 | 2025-07-04 to 2025-07-04 |
+| `ordenanza-regional-521-2025-g-r-p-cr` | Ordenanza Regional N° 521-2025-G.R.P/CR: Ordenanza que dispone fortalecer e impulsar, de manera prioritaria las políticas en el sector educación relacionado a ciencia y tecnología en las modalidades de Educación Básica Regular  y Educación Básica Alternativa, con énfasis en los niveles de primaria y | 1 | 2025-06-26 to 2025-06-26 |
+| `ordenanza-regional-519-2025-g-r-p-cr` | Ordenanza Regional N° 519-2025-G.R. P/CR: Declaran de necesidad la incorporación del profesional odontólogo en la comunidad educativa de la Región Pasco | 1 | 2025-06-24 to 2025-06-24 |
+| `ordenanza-regional-525-2025-g-r-p-cr` | Ordenanza Regional N° 525-2025-G.R. P/CR: Declaran de interés regional la implementación del Plan de Gestión de Recursos Hídricos de la Cuenca Interregional del Mantaro en el ámbito del Gobierno Regional de Pasco | 1 | 2025-06-24 to 2025-06-24 |
+| `ordenanza-regional-524-2025-g-r-p-cr` | Ordenanza Regional N° 524-2025-G.R. P/CR: Reconocen al Consejo Regional del Sistema de Garantía Participativo Pasco, como alternativa viable, técnica, económica, social y ambiental para garantizar la producción ecológica de los pequeños productores | 1 | 2025-05-31 to 2025-05-31 |
+| `ordenanza-regional-520-2025-g-r-p-cr` | Ordenanza Regional N° 520-2025-G.R. P/CR: Declaran de interés regional la actualización de la Estrategia Regional de Diversidad Biológica de la Región de Pasco 2025 - 2030 | 1 | 2025-05-30 to 2025-05-30 |
+| `ordenanza-regional-522-2025-g-r-p-cr` | Ordenanza Regional N° 522-2025-G.R. P/CR: Aprueban modificación de la Matriz de Actividades Estratégicas del Plan de Acción Regional de Seguridad Ciudadana Pasco 2024 - 2027 | 1 | 2025-05-23 to 2025-05-23 |
+| `ordenanza-regional-518-2025-g-r-p-cr` | Ordenanza Regional N° 518-2025-G.R. P/CR: Aprueban la denominación del Año Regional 2025, “AÑO DEL CENTENARIO DE INTERPRETACIÓN DE LA MULIZA A TI Y DEL BICENTENARIO DE LA TIERRA DEL CHARICAMAY Y LOS COMPADRES” | 1 | 2025-03-29 to 2025-03-29 |
+| `ordenanza-regional-517-2024-g-r-p-cr` | Ordenanza Regional N° 517-2024-G.R. P/CR: Declaran de necesidad pública la forestación y reforestación de espacios dentro del casco urbano de la provincia de Pasco | 1 | 2025-01-17 to 2025-01-17 |
+| `ordenanza-regional-515-2024-g-r-p-cr` | Ordenanza Regional N° 515-2024-G.R. P/CR: Prohíben la quema de pastos, bosques naturales y plantaciones forestales que puedan perjudicar o perjudiquen la flora, fauna, salud e integridad de la persona en todo el ámbito de la región de Pasco | 1 | 2025-01-17 to 2025-01-17 |
+| `ordenanza-regional-514-2024-g-r-p-cr` | Ordenanza Regional N° 514-2024-G.R. P/CR: Aprueban Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional Pasco del año 2024 | 1 | 2024-10-05 to 2024-10-05 |
+| `ordenanza-regional-512-2024-g-r-p-cr` | Ordenanza Regional N° 512-2024-G.R. P/CR: Aprueban adhesión del Gobierno Regional de Pasco a la Mancomunidad Regional Amazónica | 1 | 2024-05-18 to 2024-05-18 |
+| `ordenanza-regional-507-2023-g-r-pasco-cr` | Ordenanza Regional N° 507-2023-G.R.PASCO/CR: Prohíben los incendios forestales de bosques primarios, secundarios y zonas destinados para uso agrícola en todo el ámbito de la jurisdicción de la Región Pasco | 1 | 2024-05-06 to 2024-05-06 |
+| `ordenanza-regional-508-2024-g-r-p-cr` | Ordenanza Regional N° 508-2024-G.R. P/CR: Conforman el Consejo Regional de Salud (CRS) de la Región de Pasco | 1 | 2024-03-16 to 2024-03-16 |
+| `ordenanza-regional-501-2023-g-r-pasco-cr` | Ordenanza Regional N° 501-2023 - G.R. PASCO/CR: Declaran el Reconocimiento y Funcionamiento de la Plataforma de Buena Gobernanza de los Mecanismos de Retribución por Servicios Ecosistémicos Hídricos en la cuenca de aporte de EMAPA PASCO S.A. | 1 | 2024-02-08 to 2024-02-08 |
+| `ordenanza-regional-506-2023-g-r-pasco-cr` | Ordenanza Regional N° 506-2023-G.R.PASCO CR: Crean el Consejo Regional por los derechos de las niñas, niños y adolescente de la Región Pasco (COREDNNA Pasco) | 1 | 2024-02-05 to 2024-02-05 |
+| `ordenanza-regional-504-2023-g-r-pasco-cr` | Ordenanza Regional N° 504-2023-G.R.PASCO/CR: Otorgan ampliación de plazo al Gerente General Regional para la conclusión de la Reestructuración Administrativa del Pliego 456 del Gobierno Regional Pasco | 1 | 2024-02-05 to 2024-02-05 |
+| `ordenanza-regional-503-2023-g-r-pasco-cr` | Ordenanza Regional N° 503-2023-G.R.PASCO/CR: Ordenanza Regional que promueve la incorporación del enfoque intercultural; el uso, preservación, desarrollo, recuperación, fomento y difusión de las lenguas indígenas u originarias, así como la promoción de la diversidad cultural para la prevención y san | 1 | 2024-02-05 to 2024-02-05 |
+| `ordenanza-regional-499-2023-g-r-pasco-cr` | Ordenanza Regional N° 499-2023-G.R. PASCO/CR: Declaran de necesidad pública e interés regional la zonificación ecológica, económica y el ordenamiento territorial del departamento de Pasco | 1 | 2024-02-05 to 2024-02-05 |
+| `ordenanza-regional-502-2023-g-r-pasco-cr` | Ordenanza Regional N° 502-2023-G.R.PASCO/CR: Declaran de interés regional la actualización de la Estrategia Regional de Cambio Climático del departamento de Pasco 2023 - 2030 | 1 | 2024-02-05 to 2024-02-05 |
+| `ordenanza-regional-500-2023g-r-pasco-cr` | Ordenanza Regional N° 500-2023G.R.PASCO/CR: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Pasco, y sus 2 unidades ejecutoras (2UE), el Hospital “Daniel Alcides Carrión” y la Red de Salud Oxapampa | 1 | 2023-12-31 to 2023-12-31 |
+| `ordenanza-regional-498-2023-g-r-pasco-cr` | Ordenanza Regional N° 498-2023-G.R.PASCO/CR: Aprueban la modificatoria del Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional de Pasco | 1 | 2023-11-19 to 2023-11-19 |
+| `ordenanza-regional-497-2023-g-r-pasco-cr` | Ordenanza Regional N° 497-2023-G.R.PASCO/CR: Aprueban el Reglamento para el Desarrollo de Audiencias Públicas de Rendición de Cuentas del Gobierno Regional de Pasco | 1 | 2023-10-07 to 2023-10-07 |
+| `ordenanza-regional-495-2023-g-r-pasco-cr` | Ordenanza Regional N° 495-2023-G.R.PASCO/CR: Crean el Comité Consultivo Regional de Turismo de la Región de Pasco – CCRT Pasco. | 1 | 2023-10-05 to 2023-10-05 |
+| `ordenanza-regional-490-2022-g-r-p-cr` | Ordenanza Regional N° 490-2022-G.R. P/CR: Conforman el Consejo Regional de Salud de Pasco, instancia de Coordinación Interinstitucional del Sistema Nacional de Salud | 1 | 2023-09-04 to 2023-09-04 |
+| `ordenanza-regional-492-2022-g-r-p-cr` | Ordenanza Regional N° 492-2022-G.R. P/CR: Aprueban la formalización de la práctica de gestión educativa denominada “Pasco, Región que lee, escribe y se expresa en inglés” | 1 | 2023-08-31 to 2023-08-31 |
+| `ordenanza-regional-539-2025-g-r-p-cr` | Ordenanza Regional N° 539-2025-G.R.P/CR: Aprueban el Programa Regional de Educación, Cultura y Ciudadanía Ambiental del Gobierno Regional de Pasco | 1 | 2026-01-09 to 2026-01-09 |
+| `ordenanza-regional-532-2025-g-r` | Ordenanza Regional N° 532-2025-G.R: Declaran de necesidad pública y prioridad regional  la Implementación de políticas de fortalecimiento de las familias y la creación del Consejo Regional de Fortalecimiento de Familias | 1 | 2025-12-27 to 2025-12-27 |
+| `ordenanza-regional-537-2025-g-r-p-cr` | Ordenanza Regional N° 537-2025-G.R.P/CR: Modifican la Ordenanza N° 515-2024-GR-PASCO/CR que prohíbe la quema de pastos, bosques naturales y plantaciones forestales en el ámbito de la región Pasco | 1 | 2025-12-21 to 2025-12-21 |
+| `ordenanza-regional-536-2025-g-r` | Ordenanza Regional N° 536-2025-G.R: Modifican la Ordenanza N° 506-2023-GRP/CR respecto a la conformación del Consejo Regional por los derechos de las niñas, niños y adolescentes de la Región Pasco | 1 | 2025-12-21 to 2025-12-21 |
+| `ordenanza-regional-527-2025-g-r-p-cr` | Ordenanza Regional N° 527-2025-G.R. P/CR: Aprueban la adecuación de la Comisión Ambiental Regional de Pasco (CAR) al Reglamento de la Ley Marco del Sistema Nacional de Gestión Ambiental, aprobado mediante Decreto Supremo N° 014-2024-MINAM | 1 | 2025-09-06 to 2025-09-06 |
+| `ordenanza-regional-511-2024-g-r-p-cr` | Ordenanza Regional N° 511-2024-G.R.P/CR: Aprueban la creación de la Instancia Regional de Concertación de la región Pasco para erradicar la violencia contra la mujer y los integrantes del grupo familiar | 1 | 2024-05-18 to 2024-05-18 |
+| `ordenanza-regional-489-2022-g-r-p-cr` | Ordenanza Regional N° 489-2022-G.R. P/CR: Aprueban el "Decálogos para el Buen Trato a la Persona Adulta Mayor" presentado por el Gobernador Regional de Pasco | 1 | 2023-08-31 to 2023-08-31 |
+| `ordenanza-regional-494-2023-g-r-pasco-cr` | Ordenanza Regional N° 494-2023 - G.R. PASCO/CR: Ordenanza que declara en reestructuración administrativa el pliego 456 Gobierno Regional de Pasco en el marco del Proceso de Modernización de la Gestión Pública | 1 | 2023-07-23 to 2023-07-23 |
+| `ordenanza-regional-493-2023-g-r-pasco-cr` | Ordenanza Regional N° 493-2023-G.R.PASCO/CR: Declaran al año 2023 como el “Año de la Integración Regional, Concertación y Gobernabilidad Democrática en la Región Pasco” | 1 | 2023-03-16 to 2023-03-16 |
+| `ordenanza-regional-487-2022-g-r-p-cr` | Ordenanza Regional N° 487-2022-G.R.P/CR: Aprueban el Plan de Acción Regional de Seguridad Ciudadana Pasco 2022 | 1 | 2022-08-28 to 2022-08-28 |
+| `ordenanza-regional-486-2022-g-r-p-cr` | Ordenanza Regional N° 486-2022-G.R.P/CR: Crean la Gerencia Regional de Pueblos Originarios y Colonias, en el Reglamento de Organización y Funciones - ROF y en la Estructura Orgánica del Gobierno Regional de Pasco | 1 | 2022-08-19 to 2022-08-19 |
+| `ordenanza-regional-488-2022-g-r-p-cr` | Ordenanza Regional N° 488-2022-G.R.P/CR: Aprueban los Cuadros para Asignación de Personal CAP-Provisional de la Dirección Regional de Salud Pasco, Hospital Daniel Alcides Carrión y Red de Salud de Oxapampa | 1 | 2022-08-19 to 2022-08-19 |
+| `ordenanza-regional-485-2022-g-r-p-cr` | Ordenanza Regional N° 485-2022-G.R.P/CR: Aprueban modificación del Texto Único de Procedimientos Administrativos (TUPA) del Pliego 456: Gobierno Regional Pasco del año 2022 | 1 | 2022-05-30 to 2022-05-30 |
+| `ordenanza-regional-483-2022-g-r-p-cr` | Ordenanza Regional N° 483-2022-G.R. P/CR: Modifican la Ordenanza Regional N° 336-2013-G.R.PASCO/CR, que crea la Comisión Regional Anticorrupción de Pasco | 1 | 2022-05-29 to 2022-05-29 |
+| `ordenanza-regional-481-2022-g-r-p-cr` | Ordenanza Regional N° 481-2022-G.R. P/CR: Aprueban el Plan de Trabajo y el Reglamento para el proceso de elección de los representantes de las organizaciones de la Sociedad Civil período 2022 - 2023 | 1 | 2022-05-06 to 2022-05-06 |
+| `ordenanza-regional-484-2022-g-r-p-cr` | Ordenanza Regional N° 484-2022-G.R.P/CR: Crean la Comisión Regional Anticorrupción de Pasco | 1 | 2022-03-27 to 2022-03-27 |
+| `ordenanza-regional-482-2022-g-r-p-cr` | Ordenanza Regional N° 482-2022-G.R.P/CR: Declaran al año 2022 como el “Año del Fortalecimiento de la Identidad Cultural en la Región de Pasco y los 400 años de la Iglesia Matriz de Villa de Pasco” | 1 | 2022-03-25 to 2022-03-25 |
+| `ordenanza-regional-477-2021-g-r-p-cr` | Ordenanza Regional N° 477-2021-G.R.P/CR: Aprueban la creación del Consejo Regional de Agua y Saneamiento Pasco - CORESAP | 1 | 2021-08-20 to 2021-08-20 |
+| `ordenanza-regional-478-2021-g-r-p-cr` | Ordenanza Regional N° 478-2021.G.R.P/CR: Aprueban el Texto Único de Procedimientos Administrativos de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2021-08-15 to 2021-08-15 |
+| `ordenanza-regional-479-2021-g-r-p-cr` | Ordenanza Regional N° 479-2021.G.R.P/CR: Aprueban la incorporación y adecuación de los procedimientos administrativos estandarizados de la Dirección Regional de Transportes y Comunicaciones, y de la Dirección Regional de Agricultura, al TUPA del Gobierno Regional de Pasco | 1 | 2021-08-15 to 2021-08-15 |
+| `ordenanza-regional-474-2021-g-r-p-cr` | Ordenanza Regional N° 474-2021-G.R.P/CR: Aprueban el Plan de Acción Regional de Seguridad Ciudad Pasco 2021 | 1 | 2021-07-05 to 2021-07-05 |
+| `ordenanza-regional-476-2021-g-r-p-cr` | Ordenanza Regional N° 476-2021-G.R.P/CR: Aprueban solicitud de creación e implementación del Observatorio Regional de Violencia contra la Mujer y los Integrantes del Grupo Familiar en la Región Pasco | 1 | 2021-06-13 to 2021-06-13 |
+| `ordenanza-regional-475-2020-grp-cr` | Ordenanza Regional N° 475-2020-GRP/CR: Aprueban incorporación y adecuación del procedimiento administrativo estandarizado “Acceso a la Información Publica creada u obtenida por la entidad, que se encuentra en su posesión o bajo su control”, al TUPA del Gobierno Regional de Pasco | 1 | 2021-05-09 to 2021-05-09 |
+| `ordenanza-regional-471-2021-g-r-p-cr` | Ordenanza Regional N° 471-2021-G.R.P/CR: Declaran el mes de agosto en la jurisdicción de Pasco como “Mes de la memoria, reconciliación, y de los derechos humanos en el marco del doceavo aniversario de las conclusiones, de la Comisión de la Verdad y Reconciliación - CVR” y el día 28 de agosto de cada | 1 | 2021-04-09 to 2021-04-09 |
+| `ordenanza-regional-472-2021-g-r-p-cr` | Ordenanza Regional N° 472-2021-G.R.P/CR: Declaran como política pública regional la estrategia de gestión territorial "Primero la Infancia", y la lucha contra la anemia y desnutrición crónica infantil, como prioridad publica regional para lograr el desarrollo infantil temprano en la Región Pasco | 1 | 2021-04-09 to 2021-04-09 |
+| `ordenanza-regional-470-2021-g-r-p-cr` | Ordenanza Regional N° 470-2021-G.R.P/CR: Declaran al año 2021 como el “Año del Bicentenario del sacrificio de María Valdizán en la lucha por la independencia del Perú”, en la Región Pasco | 1 | 2021-04-09 to 2021-04-09 |
+| `ordenanza-regional-467-2020-grp-cr` | Ordenanza Regional N° 467-2020-GRP/CR: Crean la Red Regional de Mujeres Emprendedoras y Empresarias de la Región Pasco | 1 | 2020-12-21 to 2020-12-21 |
+| `ordenanza-regional-466-2020-g-r-p-cr` | Ordenanza Regional N° 466-2020-G.R.P/CR: Modifican y actualizan la conformación de Grupo Técnico de Diversidad Biológica y Cambio Climático de la Región Pasco | 1 | 2020-11-29 to 2020-11-29 |
+| `ordenanza-regional-465-2020-g-r-p-cr` | Ordenanza Regional N° 465-2020-G.R.P/CR: Ordenanza Regional que cambia la Razón Social  de la Dirección Regional Agraria Pasco a Dirección Regional de Agricultura Pasco | 1 | 2020-10-31 to 2020-10-31 |
+| `ordenanza-regional-464-2020-g-r-p-cr` | Ordenanza Regional N° 464-2020-G.R.P/CR: Aprueban creación del Registro Regional de Personas con Discapacidad del Gobierno Regional Pasco | 1 | 2020-10-31 to 2020-10-31 |
+| `ordenanza-regional-459-2020-grp-cr` | Ordenanza Regional N° 459-2020-GRP/CR: Declaran en emergencia el sector agropecuario y la seguridad alimentaria en la Región Pasco | 1 | 2020-08-14 to 2020-08-14 |
+| `ordenanza-regional-462-2020-g-r-p-cr` | Ordenanza Regional N° 462-2020-G.R.P/CR: Aprueban el Plan de Acción de Seguridad Regional Ciudadana Pasco 2020 | 1 | 2020-08-14 to 2020-08-14 |
+| `ordenanza-regional-460-2020-g-r-p-cr` | Ordenanza Regional N° 460-2020-G.R.P/CR: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Pasco | 1 | 2020-07-30 to 2020-07-30 |
+| `ordenanza-regional-458-2020-g-r-p-cr` | Ordenanza Regional N° 458-2020-G.R.P/CR: Aprueban el Plan de Acción 2019 - 2025 para la conservación, restauración, mantenimiento y mejores condiciones para el desarrollo sostenible de la Reserva de Biósfera Oxapampa - Asháninka - Yanesha, Región Pasco | 1 | 2020-07-30 to 2020-07-30 |
+| `ordenanza-regional-461-2020-g-r-p-cr` | Ordenanza Regional N° 461-2020-G.R.P/CR: Modifican el Texto Único de Procedimientos Administrativos -TUPA de la Sede Regional del Gobierno Regional Pasco | 1 | 2020-07-11 to 2020-07-11 |
+| `ordenanza-regional-457-2020-g-r-p-cr` | Ordenanza Regional N° 457-2020-G.R.P./CR: Crean el Sistema Regional de Conservación Pasco (SIREC-PASCO) | 1 | 2020-07-11 to 2020-07-11 |
+| `ordenanza-regional-456-2020-g-r-p-cr` | Ordenanza Regional N° 456-2020-G.R.P/CR: Declaran de necesidad pública e interés regional el reconocimiento de María Valdizán como Heroína y Mártir de la Independencia del Perú | 1 | 2020-06-13 to 2020-06-13 |
+| `ordenanza-regional-455-2020-g-r-p-cr` | Ordenanza Regional N° 455-2020-G.R.P/CR: Aprueban la Actualiación del Sistema Regional de Gestión Ambiental | 1 | 2020-06-08 to 2020-06-08 |
+| `ordenanza-regional-452-2020-g-r-p-cr` | Ordenanza Regional N° 452-2020-G.R.P/CR: Aprueban el Reglamento de Atención de Denuncias y Emergencias Ambientales en el Gobierno Regional de Pasco | 1 | 2020-06-08 to 2020-06-08 |
+| `ordenanza-regional-454-2020-g-r-p-cr` | Ordenanza Regional N° 454-2020-G.R.P/CR: Aprueban el Reglamento y Plan de Trabajo para la Renovación de los Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional Pasco para el periodo 2020 - 2021 | 1 | 2020-06-08 to 2020-06-08 |
+| `ordenanza-regional-453-2020-g-r-p-cr` | Ordenanza Regional N° 453-2020-G.R.P/CR: Declaran el año 2020 como el “Año de la Conmemoración del Bicentenario de la Batalla de Pasco”, en la Región Pasco | 1 | 2020-02-13 to 2020-02-13 |
+| `ordenanza-regional-446-2019-g-r-p-cr` | Ordenanza Regional N° 446-2019-G.R.P/CR: Declaran de Necesidad Pública e Interés Regional del Proceso de Zonificación Ecológica y Económica - ZEE y el Ordenamiento Territorial de la Región Pasco | 1 | 2019-11-30 to 2019-11-30 |
+| `ordenanza-regional-441-2019-g-r-p-cr` | Ordenanza Regional N° 441-2019-G.R.P/CR: Aprueban Plan Exportador Regional - PERX 2025 de la Dirección Regional de Comercio Exterior y Turismo de Pasco | 1 | 2019-11-29 to 2019-11-29 |
+| `ordenanza-regional-445-2019-g-r-p-cr` | Ordenanza Regional N° 445-2019-G.R.P/CR: Declaran de necesidad pública e interés regional la construcción del Puente Pichis del distrito de Puerto Bermúdez, provincia de Oxapampa, Región Pasco | 1 | 2019-09-23 to 2019-09-23 |
+| `ordenanza-regional-440-2019-g-r-p-cr` | Ordenanza Regional N° 440-2019-G.R.P/CR: Declaran de interés regional la salud oral de los niños y niñas de las instituciones educativas estatales de los niveles inicial, primaria y secundaria de las provincias de Pasco, Oxapampa y Daniel Alcides Carrión de la Región Pasco | 1 | 2019-09-13 to 2019-09-13 |
+| `ordenanza-regional-443-2019-g-r-p-cr` | Ordenanza Regional N° 443-2019-G.R.P/CR: Aprueban Cuadro para Asignación de Personal (CAP) Provisional de la Unidad de Gestión Educativa Local (UGEL) del distrito de Puerto Bermúdez, provincia de Oxapampa, Región Pasco | 1 | 2019-07-27 to 2019-07-27 |
+| `ordenanza-regional-436-2019-g-r-p-cr` | Ordenanza Regional N° 436-2019-G.R.P/CR: Declaran al año 2019 como "Año de las Bodas de Oro de la Ley N° 17716 - Ley de Reforma Agraria", en la Región Pasco | 1 | 2019-06-10 to 2019-06-10 |
+| `ordenanza-regional-438-2019-g-r-p-cr` | Ordenanza Regional N° 438-2019-G.R.P/CR: Ratifican el “Plan Regional de Seguridad Ciudadana 2019” | 1 | 2019-04-29 to 2019-04-29 |
+| `ordenanza-regional-433-2018-g-r-p-cr` | Ordenanza Regional N° 433-2018-G.R.P/CR: Crean la Unidad de Gestión Educativa Local - UGEL Puerto Bermúdez cuya jurisdicción abarca el distrito de Puerto Bermúdez, provincia de Oxapampa, departamento de Pasco | 1 | 2019-01-26 to 2019-01-26 |
+| `ordenanza-regional-432-2018-g-r-p-cr` | Ordenanza Regional N° 432-2018-G.R.P/CR: Aprueban Cuadro para Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Pasco y del Hospital Daniel Alcides Carrión | 1 | 2018-12-13 to 2018-12-13 |
+| `ordenanza-regional-428-2018-g-r-p-cr` | Ordenanza Regional N° 428-2018-G.R.P/CR: Ratifican Plan Regional de Seguridad Ciudadana 2018 | 1 | 2018-09-16 to 2018-09-16 |
+| `ordenanza-regional-425-2018-g-r-p-cr` | Ordenanza Regional N° 425-2018-G.R.P/CR: Declaran el año 2018 como el “Año del Fortalecimiento del Producto Agrícola Regional y la Lucha Contra la Violencia de la Mujer Pasqueña”, en la Región Pasco | 1 | 2018-03-01 to 2018-03-01 |
+| `ordenanza-regional-424-2017-g-r-p-cr` | Ordenanza Regional N° 424-2017-G.R.P/CR: Aprueban actualización del Texto Único de Procedimientos Administrativos - TUPA 2017 del Gobierno Regional | 1 | 2018-01-28 to 2018-01-28 |
+| `ordenanza-regional-422-2017-g-r-p-cr` | Ordenanza Regional N° 422-2017-G.R.P/CR: Aprueban modificación del Reglamento de Organización y Funciones (ROF) de la Dirección Regional de Agricultura | 1 | 2018-01-11 to 2018-01-11 |
+| `ordenanza-regional-421-2017-g-r-p-cr` | Ordenanza Regional N° 421-2017-G.R.P/CR: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) de la Dirección Regional de Salud Pasco, Hospital Regional Daniel Alcides Carrión y la Red de Salud de Oxapampa | 1 | 2017-11-13 to 2017-11-13 |
+| `ordenanza-regional-411-2017-g-r-p-cr` | Ordenanza Regional N° 411-2017-G.R.P/CR: Aprueban modificación del Reglamento de Organización y Funciones de la Gerencia Sub Regional  Daniel A. Carrión | 1 | 2017-11-09 to 2017-11-09 |
+| `ordenanza-regional-409-2017-g-r-p-cr` | Ordenanza Regional N° 409-2017-G.R.P/CR: Declaran como Prioridad Regional la Reducción de la Anemia y Desnutrición Crónica Infantil en Niñas y Niños menores de 5 años y gestantes, al 2021 en la región Pasco | 1 | 2017-10-15 to 2017-10-15 |
+| `ordenanza-regional-417-2017-g-r-p-cr` | Ordenanza Regional N° 417-2017-G.R.P./CR: Aprueban la actualización del Texto Único de Procedimientos Administrativos - TUPA 2017 del Gobierno Regional | 1 | 2017-10-06 to 2017-10-06 |
+| `ordenanza-regional-418-2017-g-r-p-cr` | Ordenanza Regional N° 418-2017-G.R.P/CR: Aprueban el Cuadro para Asignación de Personal Provisional (CAP-P) de la Unidad Ejecutora 300 Educación Pasco, Unidad Ejecutora 301 UGEL Oxapampa, Unidad Ejecutora 302 UGEL Daniel Alcides Carrión y Unidad Ejecutora 303 UGEL Pasco | 1 | 2017-09-16 to 2017-09-16 |
+| `ordenanza-regional-410-2017-g-r-p-cr` | Ordenanza Regional N° 410-2017-G.R.P/CR: Aprueban la creación de la "Instancia regional de concertación de la región Pasco para Erradicar la Violencia contra la Mujer y los integrantes del Grupo Familiar" | 1 | 2017-08-13 to 2017-08-13 |
+| `ordenanza-regional-414-2017-g-r-p-cr` | Ordenanza Regional N° 414-2017-G.R.P/CR: Aprueban Reglamento para el Desarrollo del Proceso de Presupuesto Participativo Basado en Resultados | 1 | 2017-07-10 to 2017-07-10 |
+| `ordenanza-regional-407-2017-g-r-p-cr` | Ordenanza Regional N° 407-2017-G.R.P/CR: Aprueban la creación del Consejo Regional de la Micro y Pequeña Empresa de la Región Pasco - COREMYPE - PASCO | 1 | 2017-05-29 to 2017-05-29 |
+| `ordenanza-regional-408-2017-g-r-p-cr` | Ordenanza Regional N° 408-2017-G.R.P/CR: Aprueban modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Pasco | 1 | 2017-05-26 to 2017-05-26 |
+| `ordenanza-regional-406-2017-g-r-p-cr` | Ordenanza Regional N° 406-2017-G.R.P/CR: Declaran al año 2017 como el "Año de la Reforma e Integración Regional", en la Región Pasco | 1 | 2017-03-28 to 2017-03-28 |
+| `ordenanza-regional-382-2015-g-r-pasco-cr` | Ordenanza Regional N° 382-2015-G.R.PASCO/CR: Aprueban la creación del Comité Directivo Regional para la Prevención y Erradicación del Trabajo Infantil - CDRPETI de la Región Pasco | 1 | 2017-02-05 to 2017-02-05 |
+| `ordenanza-regional-393-2016-g-r-p-cr` | Ordenanza Regional N° 393-2016-G.R.P/CR: Aprueban Reglamento del Presupuesto Participativo 2017 | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-405-2016-g-r-p-cr` | Ordenanza Regional N° 405-2016-G.R.P/CR: Aprueban la creación del Consejo Consultivo Regional de Niñas, Niños y Adolescentes de la Región de Pasco - CCONNA | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-404-2016-g-r-p-cr` | Ordenanza Regional N° 404-2016-G.R.P/CR: Aprueban Reglamento de Organización y Funciones (ROF) de la Sub Gerencia de Oxapampa, Unidad Ejecutora Pasco Selva Central | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-400-2016-g-r-p-cr` | Ordenanza Regional N° 400-2016-G.R.P/CR: Aprueban Reglamento de Organización y Funciones (ROF) 2015 del Hospital Daniel Alcides Carrión | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-401-2016-g-r-p-cr` | Ordenanza Regional N° 401-2016-G.R.P/CR: Aprueban Plan de Desarrollo Regional Concertado hacia el 2021 | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-399-2016-g-r-p-cr` | Ordenanza Regional N° 399-2016-G.R.P/CR: Aprueban Plan Regional para la Prevención de Erradicación del Trabajo Infantil de Pasco 2016 - 2021 | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-398-2016-g-r-p-cr` | Ordenanza Regional N° 398-2016-G.R.P/CR: Aprueban Cuadro para Asignación de Personal Provisional 2016 - CAP, de la Unidad Ejecutora 402 - Salud Oxapampa A.I.S. UTES Oxapampa - Red de Salud Oxapampa Pasco | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-396-2016-g-r-p-cr` | Ordenanza Regional N° 396-2016-G.R.P/CR: Aprueban Cuadro para Asignación de Personal Provisional 2016 - CAP, de la Unidad Ejecutora 400 - Dirección Regional de Salud Pasco | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-397-2016-g-r-p-cr` | Ordenanza Regional N° 397-2016-G.R.P/CR: Aprueban Cuadro para Asignación de Personal Provisional 2016 - CAP, de la Unidad Ejecutora 401 - Hospital Daniel Alcides Carrión Pasco | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-394-2016-g-r-p-cr` | Ordenanza Regional N° 394-2016-G.R.P/CR: Aprueban la Estrategia Regional de Cambio Climático de Pasco y Plan de Sensibilización, Comunicación y Fortalecimiento de Capacidades para la Implementación de la ERCC Pasco | 1 | 2017-02-04 to 2017-02-04 |
+| `ordenanza-regional-381-2015-g-r-pasco-cr` | Ordenanza Regional N° 381-2015-G.R.PASCO/CR: Modifican la Ordenanza N° 309-2012-G.R.PASCO/CR referente a la conformación de la Comisión Regional de Acuicultura | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-375-2015-g-r-pasco-cr` | Ordenanza Regional N° 375-2015-G.R.PASCO/CR: Ratifican el Plan Regional de Seguridad Ciudadana 2015 | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-371-2015-g-r-pasco-cr` | Ordenanza Regional N° 371-2015-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal Provisional 2015 - CAP, de la Unidad Ejecutora 402 Red de Salud Oxapampa - UTES Oxapampa | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-377-2015-g-r-pasco-cr` | Ordenanza Regional N° 377-2015-G.R.PASCO/CR: Declaran de interés regional el consumo de productos hidrobiológicos | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-369-2015-g-r-pasco-cr` | Ordenanza Regional N° 369-2015-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal Provisional 2014 - CAP, de la Dirección Regional de Salud - Unidad Ejecutora 401 Hospital Daniel Alcides Carrión | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-370-2015-g-r-pasco-cr` | Ordenanza Regional N° 370-2015-G.R.PASCO/CR: Aprueban Cuadro para Asignación de Personal Provisional 2014 - CAP, de la Dirección Regional de Salud Pasco | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-367-2015-g-r-pasco-cr` | Ordenanza Regional N° 367-2015-G.R.PASCO/CR: Inician el Proceso de Presupuesto Participativo para el año fiscal 2016 y aprueban Plan de Trabajo | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-366-2015-g-r-pasco-cr` | Ordenanza Regional N° 366-2015-G.R.PASCO/CR: Modifican Texto Único de Procedimientos Administrativos del Gobierno Regional Pasco y Direcciones Regionales Sectoriales | 1 | 2017-01-28 to 2017-01-28 |
+| `ordenanza-regional-395-2016-g-r-p-cr` | Ordenanza Regional N° 395-2016-G.R.P/CR: Aprueban el Proyecto Educativo Regional 2016 -2021 de la Dirección Regional de Educación Pasco | 1 | 2017-01-07 to 2017-01-07 |
+| `ordenanza-regional-403-2016-g-r-p-cr` | Ordenanza Regional N° 403-2016-G.R.P/CR: Aprueban modificación del Reglamento de Organización y Funciones (ROF) del Gobierno Regional Pasco | 1 | 2017-01-07 to 2017-01-07 |
+| `ordenanza-regional-379-2015-g-r-pasco-cr` | Ordenanza Regional N° 379-2015-G.R.PASCO/CR: Disponen que la designación de los Directores Regionales Sectoriales de Pasco, deba ser seleccionada mediante Concurso de Méritos | 1 | 2016-12-30 to 2016-12-30 |
+| `ordenanza-regional-388-2016-g-r-p-cr` | Ordenanza Regional N° 388-2016-G.R.P/CR: Declaran la denominación del año 2016 en la región Pasco: Año de la Consolidación de la Reserva de Biosfera y Reconocimiento a las Instituciones Educativas Industrial N° 3 ARPL y Mariscal Miller | 1 | 2016-05-09 to 2016-05-09 |
+| `ordenanza-regional-380-2015-g-r-pasco-cr` | Ordenanza Regional N° 380-2015-G.R.PASCO/CR: Aprueban el Reglamento de Fiscalización de las Actividades Mineras en la región Pasco | 1 | 2016-05-09 to 2016-05-09 |
+| `ordenanza-regional-346-2014-g-r-pasco-cr` | Ordenanza Regional N° 346-2014-G.R.PASCO/CR: Regulan el uso de los Equipos de Protección Personal (EPP) de los trabajadores y la circulación de vehículos utilizados en los diferentes componentes de la actividad minera, fuera de las instalaciones y operaciones mineras en el Departamento de Pasco | 1 | 2015-12-20 to 2015-12-20 |
+| `ordenanza-regional-306-2012-g-r-pasco-cr` | Ordenanza Regional N° 306-2012-G.R.PASCO/CR: Aprueban la Creación del Consejo Regional de la Juventud de Pasco COREJU - Pasco | 1 | 2015-12-20 to 2015-12-20 |
+| `ordenanza-regional-373-2015-g-r-pasco-cr` | Ordenanza Regional N° 373-2015-G.R.PASCO/CR: Declaran de necesidad pública e interés regional el ecosistema de la Laguna Punrun y su uso adecuado, recurso natural ubicado en la Provincia de Pasco | 1 | 2015-12-20 to 2015-12-20 |
+| `ordenanza-regional-374-2015-g-r-pasco-cr` | Ordenanza Regional N° 374-2015-G.R.PASCO/CR: Aprueban Actualización de la Política Ambiental Regional, del Plan de Acción Regional al 2021 y de la Agenda Ambiental Regional 2015 - 2016 | 1 | 2015-12-20 to 2015-12-20 |
+| `ordenanza-regional-361-2015-g-r-pasco-cr` | Ordenanza Regional N° 361-2015-G.R.PASCO/CR: Declaran como prioritaria la política de Combate y Prevención de lucha contra la corrupción y la Política Educativa Regional en la ejecución de "El Fortalecimiento de la Educación en Valores" | 1 | 2015-12-20 to 2015-12-20 |
+| `ordenanza-regional-362-2015-g-r-pasco-cr` | Ordenanza Regional N° 362-2015-G.R.PASCO/CR: Declaran de necesidad pública e interés Regional el proceso de Ordenamiento territorial para el uso y ocupación sostenible del territorio, uso y aprovechamiento sostenible de los recursos naturales y la diversidad biológica | 1 | 2015-12-20 to 2015-12-20 |
+| `ordenanza-regional-130-2007-g-r-pasco-cr` | Ordenanza Regional N° 130-2007-G.R.PASCO/CR: Declaran feriado no laborable en toda la Región Pasco, el día 27 de noviembre de cada año | 1 | 2015-06-30 to 2015-06-30 |
+| `ordenanza-regional-223-2009-g-r-pasco-cr` | Ordenanza Regional N° 223-2009-G.R. PASCO/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Archivo Pasco | 1 | 2009-11-06 to 2009-11-06 |
+| `ordenanza-regional-248-2010-g-r-pasco-cr` | Ordenanza Regional N° 248-2010-G.R. PASCO/CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional del Hospital " Dr. Daniel Alcides Carrión" | 1 | 2010-11-20 to 2010-11-20 |
+| `ordenanza-regional-327-2013-g-r-pasco-cr` | Ordenanza Regional N° 327-2013-G.R.PASCO/CR: Aprueban el Reglamento de Organización y Funciones (ROF) y el Cuadro para Asignación de Personal (CAP) de la Dirección de la Unidad de Gestión Educativa Local de Pasco | 1 | 2013-08-31 to 2013-08-31 |
+
+The build made 137 commits:
+
+| Commits | Kind |
+| ---: | --- |
+| 137 | first version of an act |
+| 0 | one law on its in-force day |
+| 0 | changes no amendment note explains, credited to the publisher |
+
+Other counts:
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
+- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 137 laws in the record.
+- 274 tags.
+
+## Dates
+
+Each commit is dated at noon (America/Lima) on the day the change took effect. The other dates, enacted and published, are trailers.
+
+When a law gives no date of its own, the default rule applies: Constitución Política del Perú, art. 109: "La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte." Ley Orgánica de Gobiernos Regionales (Ley 27867), art. 42, applies the same rule to regional norms: in force from the day after publication in El Peruano unless the norm itself names another day. https://www.congreso.gob.pe
+
+## How the history is built
+
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+
+- Corpus: sha256 `35c85c63e88d4cffa50b1f19434f8094d2b0cc3b2db63b1b3123c07bcf78f821` (1710547 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Python 3.12.10; git version 2.46.0.windows.1.
+
+## Checks
+
+137 versions of 137 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+
+No second build of this corpus has been compared yet.
+
+## Decisions made by hand
+
+- Source: the Diario Oficial El Peruano, Normas Legales, which publishes every ordinance of Gobierno Regional de Pasco as enacted. It publishes no consolidated texts, so each ordinance is shown once, as published (the oldest version available), dated on the day it took effect. An ordinance that amends another is its own entry; its changes are not applied to the earlier text.
+- In-force day: the ordinance's own vigencia clause (the day after publication, from publication, or a named date); otherwise the day after publication (Constitución, art. 109; Ley 27867, art. 42). An ordinance whose vigencia clause this reader cannot resolve is left out.
+- Text: the ordinance is cut from El Peruano's PDF extract, from the end of the previous norm to the operation number printed under it. El Peruano's own furniture (running heads, section headings, its summary title above the norm, the operation number) is not part of the text. Annexes that El Peruano does not print are not included.
+- Units: the heading (encabezado: number, considerandos and enacting formula, everything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (dispositions, signatures). Nothing printed between those bounds is dropped. One paragraph per line, spacing normalised, words broken at a line end joined.
+- Ordinances are added newest first, in parts of about 50.
+
+## What AI did and did not do
+
+The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+
+No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
+
+The commit messages are written by `build.py` from the source data.
+
+Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code and chose which ordinances to include; it wrote no law text. Every word of law comes from El Peruano's own PDF extracts.
